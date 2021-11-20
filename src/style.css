@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    font-family: "Poppins", sans-serif;
+}
+p
+{
+    font-size: 15;
+    line-height: 8px;
+    text-align: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: url(luffy.jpg) no-repeat center /cover;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-center: rgb(255, 255, 255,0);
+
+}
