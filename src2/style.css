@@ -1,0 +1,17 @@
+body{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0px;
+      background-color: #262626;
+      }
+      p{
+      font-size: 8px;
+      line-height: 8px;
+      background:url(kitten.png);
+      background-position: center;
+      -webkit-background-clip:text;
+      background-attachment: fixed;
+      -webkit-text-fill-color:rgba(255,255,255,0);
+      }
